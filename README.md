@@ -4,7 +4,7 @@ This is the result of the React course from [SpethenGrider](https://github.com/S
 
 ### DEMO ###
 
-(DEMO Video)[http://s3.emerson.link/prints/2016-04-03-023943.mp4]
+[http://s3.emerson.link/prints/2016-04-03-023943.mp4](http://s3.emerson.link/prints/2016-04-03-023943.mp4)
 
 #### Setup #####
 Checkout this repo, install depdencies, then start the gulp process with the following:
