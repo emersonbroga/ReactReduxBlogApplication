@@ -10,8 +10,8 @@ This is the result of the React course from [SpethenGrider](https://github.com/S
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-  > git clone git@github.com:emersonbroga/ReactReduxBooksApplication.git
-  > cd ReactReduxBooksApplication
+  > git clone git@github.com:emersonbroga/ReactReduxBlogApplication.git
+  > cd ReactReduxBlogApplication
   > npm install
   > npm start
 ```
